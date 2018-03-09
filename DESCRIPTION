@@ -1,0 +1,15 @@
+Package: ClassExample
+Type: Package
+Title: Function from Homework 2
+Version: 0.1.0
+Author: Yuhui Zhu
+Maintainer: Yuhui Zhu <yhzhu@ucla.edu>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: UCLA
+Encoding: UTF-8
+LazyData: true
+Imports:
+       dplyr,
+       ggplot2
+RoxygenNote: 6.0.1
